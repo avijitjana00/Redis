@@ -1,0 +1,25 @@
+{
+  "name": "redis-setup",
+  "version": "1.0.0",
+  "description": "working on redis",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avijitjana00/Docker.git"
+  },
+  "author": "Avijit Jana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avijitjana00/Docker/issues"
+  },
+  "homepage": "https://github.com/avijitjana00/Docker#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ioredis": "^5.11.1",
+    "mongoose": "^9.7.0"
+  }
+}
