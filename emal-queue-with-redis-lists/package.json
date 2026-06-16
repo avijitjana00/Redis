@@ -1,0 +1,24 @@
+{
+  "name": "emal-queue-with-redis-lists",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/avijitjana00/Redis.git"
+  },
+  "author": "Avijit Jana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avijitjana00/Redis/issues"
+  },
+  "homepage": "https://github.com/avijitjana00/Redis#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "ioredis": "^5.11.1"
+  }
+}
